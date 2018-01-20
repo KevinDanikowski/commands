@@ -1,0 +1,25 @@
+###### Git Commands
+git clone
+git remote rm origin // remove the remote you just created
+
+#Making Git
+git init
+git add .
+git commit -m "First Commit"
+git remote add origin https://github.com/KevinDanikowski/NAME.GIT (make this in github)
+git push -u origin master //You will be asked for credentials
+
+> https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/
+
+
+###### Bash Commands
+touch <file> //creates file
+nano <file> //edits file, will create too
+
+#nano
+ctrl+o then enter  //saves file
+ctrl+x //exits
+
+# Creating SSH
+
+> http://burnedpixel.com/blog/setting-up-git-and-github-on-your-mac/#generatenewkey
